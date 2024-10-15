@@ -1,0 +1,8 @@
+<XSTREAM.Libro>
+  <isbn>12345</isbn>
+  <titulo>Titulo</titulo>
+  <editorial>Editorial</editorial>
+  <paginas>300</paginas>
+  <autor>lucia</autor>
+  <copias>500</copias>
+</XSTREAM.Libro>

@@ -1,0 +1,8 @@
+<practica2.Libro>
+  <isbn>4</isbn>
+  <titulo>Prueba</titulo>
+  <editorial>YO</editorial>
+  <paginas>300</paginas>
+  <autor>YOX2</autor>
+  <copias>40</copias>
+</practica2.Libro>
